@@ -4,18 +4,7 @@
 #include <string.h>
 #include <stdint.h>
 
-/*
- *
- * Some funcs returns null evaluate them like malloc
- * Once you finish the project make code look better
- *
- * should i change current node after adding arr !!!!!!!!!!!!!!!!!!1
- *
- * */
-
-
 #pragma once
-
 
 typedef enum DTYPES {
     INT8_T              = 1,
